@@ -1,8 +1,5 @@
 ## Informática II
 ###  Laboratorio: Ejemplo numpy
-**Integrantes**
-- *Anjhelo Giovanny Ramírez Suárez Codigo: 20221099014*
-- *Daniel Ricardo Galván Torres Codigo: 20221099003*
 
 In this exercise we have to:
 - Generate random data for:
@@ -10,3 +7,5 @@ In this exercise we have to:
   - Salary.
 - Join in an array.
 - Filter data between ages and all salaries.
+
+## Check [answer](https://github.com/GiovannyRamirez/numpy-example/blob/main/ejercicio_numpy.ipynb)
